@@ -9,14 +9,14 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.zzs</groupId>
-    <artifactId>malldemo</artifactId>
+    <artifactId>mall-login-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>malldemo</name>
+    <name>mall-login-demo</name>
     <description>Demo project for Spring Boot</description>
 
-    <properties>
-        <java.version>1.8</java.version>
-    </properties>
+    <!--    <properties>-->
+    <!--        <java.version>1.8</java.version>-->
+    <!--    </properties>-->
 
     <dependencies>
         <dependency>
@@ -45,7 +45,7 @@
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
-            <version>1.16.16</version>
+            <version>1.16.20</version>
         </dependency>
         <dependency>
             <groupId>com.vaadin.external.google</groupId>
